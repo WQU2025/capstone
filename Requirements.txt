@@ -1,0 +1,8 @@
+Requirements:
+
+pandas>=1.0.0 
+numpy>=1.18.0 
+h5py>=2.10.0 
+matplotlib>=3.2.0 
+lightgbm>=3.0.0 
+scikit-learn>=0.23.0
